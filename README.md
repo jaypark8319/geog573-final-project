@@ -11,6 +11,8 @@ Methods:
 ●	Quantitative Analysis - Use efficiency gaps to view any partisan gaps and advantages. 
 Expected Outcomes:
 ●	We are conducting a model that would detect the partisan gerrymandering of certain elections, based on U.S. standards and we will use the data we collected to prove the validity of our model. 
+
+
 Data Sources:
 ●	22nd Congressional Election of South Korea precinct-level returns (raw_result.csv): 
 https://nec.go.kr/site/nec/ex/bbs/View.do?cbIdx=1084&bcIdx=265654
