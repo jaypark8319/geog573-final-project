@@ -1,6 +1,7 @@
 Researching Gerrymandering in the 2024 South Korean Legislative Election
 
 
+
 Objective: 
 
 We endeavor to analyze the impact of gerrymandering in South Korea’s legislative election in 2024. We will look at the district boundaries, demographics, and vote distribution. The end goal of our study is to determine how the voting districts were divided in favor of certain parties based on demographics and partisanships of regions. 
@@ -14,6 +15,7 @@ Expected Outcomes:
 ●	We are conducting a model that would detect the partisan gerrymandering of certain elections, based on U.S. standards and we will use the data we collected to prove the validity of our model. 
 
 
+
 Data Sources:
 
 ●	22nd Congressional Election of South Korea precinct-level returns (raw_result.csv): 
@@ -21,6 +23,8 @@ https://nec.go.kr/site/nec/ex/bbs/View.do?cbIdx=1084&bcIdx=265654
 
 ●	22nd Congressional Election of South Korea returns by eupmyeondong (2024_22_Elec_simplify.json, 22_Elec_SGG.csv): 
 https://github.com/OhmyNews/2024_22_elec_map
+
+
 
 Results:  
 
