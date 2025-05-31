@@ -1,4 +1,6 @@
 Researching Gerrymandering in the 2024 South Korean Legislative Election
+
+
 Objective: 
 We endeavor to analyze the impact of gerrymandering in South Korea’s legislative election in 2024. We will look at the district boundaries, demographics, and vote distribution. The end goal of our study is to determine how the voting districts were divided in favor of certain parties based on demographics and partisanships of regions. 
 Background:
